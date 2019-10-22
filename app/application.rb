@@ -14,3 +14,14 @@ class Application
     resp.finish
   end
 end
+resp = Rack::Response.new
+resp = Rack::Response.new
+resp = Rack::Response.new
+
+def call(env)
+  def call(env)
+  def call(env)
+    def call(env)
+      def call(env)
+        def call(env)
+          def call(env)
